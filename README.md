@@ -23,4 +23,4 @@ Our generated dataset can be found in the [google drive]()
 
 ### Run the generation script
 
-### Training a DPR model
+### Finetune a multimoal model
