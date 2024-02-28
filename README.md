@@ -27,7 +27,9 @@ Our generated dataset can be found in the [google drive]()
 
 
 ### Do-I-Demand Benchmark
+
 |                     |    Utterance-Only  | Description + Utterance    |
+|---------------------|--------------------|----------------------------|
 | Model               | SBERT     |   GPT3 |     SBERT    |     GPT3    |
 |---------------------|-----------|--------|--------------|-------------|
 | LLaVA-13B                  | 20.3  | 24.5   | 28.3      | 34.8        |
