@@ -2,10 +2,10 @@ ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action 
 ===
 [IWSDS 2024 paper]
 
+## Overview
 
-## Reference
-Please cite the following paper
-
+## Framework
+<img src=./images/augmentation.png width="50%">
 
 ## Requirements
 * Python >= 3.6
@@ -24,3 +24,7 @@ Our generated dataset can be found in the [google drive]()
 ### Run the generation script
 
 ### Finetune a multimoal model
+
+
+## Reference
+Please cite the following paper
