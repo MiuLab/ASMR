@@ -5,7 +5,7 @@ ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action 
 ## Overview
 
 ## Framework
-<img src=./images/augmentation.png width="50%">
+<img src=./images/augmentation.png width="100%">
 
 ## Requirements
 * Python >= 3.6
