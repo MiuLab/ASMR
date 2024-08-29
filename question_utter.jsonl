@@ -1,0 +1,400 @@
+{"question_id": 0, "image": "40_10.jpg", "text": "I washed the water bottle for you.", "category": "conv"}
+{"question_id": 1, "image": "30_04.jpg", "text": "I have to wash that water bottle too.", "category": "conv"}
+{"question_id": 2, "image": "36_07.jpg", "text": "I have to chill the drinks too.", "category": "conv"}
+{"question_id": 3, "image": "09_10.jpg", "text": "I'm tired.", "category": "conv"}
+{"question_id": 4, "image": "12_09.jpg", "text": "I drank too much coffee.", "category": "conv"}
+{"question_id": 5, "image": "31_09.jpg", "text": "There is no need to use canned food.", "category": "conv"}
+{"question_id": 6, "image": "19_09.jpg", "text": "This place has become beautiful.", "category": "conv"}
+{"question_id": 7, "image": "10_06.jpg", "text": "I spilled water.", "category": "conv"}
+{"question_id": 8, "image": "31_06.jpg", "text": "It was a can that didn't require a can opener.", "category": "conv"}
+{"question_id": 9, "image": "40_04.jpg", "text": "I'm tired today, but it was fun. I'm looking forward to next week.", "category": "conv"}
+{"question_id": 10, "image": "03_10.jpg", "text": "Should we take a break?", "category": "conv"}
+{"question_id": 11, "image": "24_07.jpg", "text": "Let's grill the Pacific saury.", "category": "conv"}
+{"question_id": 12, "image": "20_07.jpg", "text": "I wonder if it has become clean with this.", "category": "conv"}
+{"question_id": 13, "image": "21_08.jpg", "text": "I wonder where the can opener went.", "category": "conv"}
+{"question_id": 14, "image": "01_05.jpg", "text": "It doesn't seem like there is time to eat.", "category": "conv"}
+{"question_id": 15, "image": "28_03.jpg", "text": "What about the potatoes?", "category": "conv"}
+{"question_id": 16, "image": "30_05.jpg", "text": "I need to put tea in my water bottle.", "category": "conv"}
+{"question_id": 17, "image": "13_06.jpg", "text": "It was delicious.", "category": "conv"}
+{"question_id": 18, "image": "28_09.jpg", "text": "Huh? We're missing one potato!", "category": "conv"}
+{"question_id": 19, "image": "15_02.jpg", "text": "I'm going shopping.", "category": "conv"}
+{"question_id": 20, "image": "40_09.jpg", "text": "I don't need to prepare drinks.", "category": "conv"}
+{"question_id": 21, "image": "23_03.jpg", "text": "You also need to wash the glass.", "category": "conv"}
+{"question_id": 22, "image": "29_01.jpg", "text": "Where is the Saran Wrap?", "category": "conv"}
+{"question_id": 23, "image": "40_02.jpg", "text": "Let's put tea in this and take it with us tomorrow.", "category": "conv"}
+{"question_id": 24, "image": "34_08.jpg", "text": "Is this everything?", "category": "conv"}
+{"question_id": 25, "image": "34_05.jpg", "text": "I might not use the grater for a while.", "category": "conv"}
+{"question_id": 26, "image": "26_07.jpg", "text": "I want to make it stylish like a bar and serve it.", "category": "conv"}
+{"question_id": 27, "image": "38_05.jpg", "text": "Let's warm up the leftover rice and eat it.", "category": "conv"}
+{"question_id": 28, "image": "13_07.jpg", "text": "Hello.", "category": "conv"}
+{"question_id": 29, "image": "05_10.jpg", "text": "How was today?", "category": "conv"}
+{"question_id": 30, "image": "01_04.jpg", "text": "Is it already this late?", "category": "conv"}
+{"question_id": 31, "image": "31_01.jpg", "text": "I don't use a can opener anymore.", "category": "conv"}
+{"question_id": 32, "image": "35_08.jpg", "text": "I don't use it now.", "category": "conv"}
+{"question_id": 33, "image": "35_10.jpg", "text": "I went shopping.", "category": "conv"}
+{"question_id": 34, "image": "29_09.jpg", "text": "Oh, where is the Saran Wrap?", "category": "conv"}
+{"question_id": 35, "image": "05_04.jpg", "text": "Was there no problem while you were out?", "category": "conv"}
+{"question_id": 36, "image": "28_05.jpg", "text": "Why is there only one potato on the table...", "category": "conv"}
+{"question_id": 37, "image": "40_01.jpg", "text": "We won't use the water bottle until tomorrow, right?", "category": "conv"}
+{"question_id": 38, "image": "33_01.jpg", "text": "I don't need the things I used when I drank wine yesterday.", "category": "conv"}
+{"question_id": 39, "image": "12_07.jpg", "text": "Good morning.", "category": "conv"}
+{"question_id": 40, "image": "12_04.jpg", "text": "Thank you for the meal.", "category": "conv"}
+{"question_id": 41, "image": "40_05.jpg", "text": "I will use it again when I go out tomorrow.", "category": "conv"}
+{"question_id": 42, "image": "19_06.jpg", "text": "I don't need tissues anymore.", "category": "conv"}
+{"question_id": 43, "image": "23_06.jpg", "text": "We needed two glasses.", "category": "conv"}
+{"question_id": 44, "image": "18_04.jpg", "text": "Are you going to focus on work?", "category": "conv"}
+{"question_id": 45, "image": "05_08.jpg", "text": "It's difficult.", "category": "conv"}
+{"question_id": 46, "image": "03_08.jpg", "text": "I'm home.", "category": "conv"}
+{"question_id": 47, "image": "10_10.jpg", "text": "I feel like I'm going to sneeze.", "category": "conv"}
+{"question_id": 48, "image": "02_02.jpg", "text": "My battery is about to die, I'm in trouble.", "category": "conv"}
+{"question_id": 49, "image": "14_01.jpg", "text": "The child has already fallen asleep.", "category": "conv"}
+{"question_id": 50, "image": "17_08.jpg", "text": "Good night.", "category": "conv"}
+{"question_id": 51, "image": "16_06.jpg", "text": "Good morning.", "category": "conv"}
+{"question_id": 52, "image": "14_08.jpg", "text": "Should I watch the news?", "category": "conv"}
+{"question_id": 53, "image": "32_04.jpg", "text": "If it's today's menu, we don't need a cooking sheet.", "category": "conv"}
+{"question_id": 54, "image": "37_09.jpg", "text": "Without Saran Wrap, I can use the kitchen more spaciously.", "category": "conv"}
+{"question_id": 55, "image": "29_03.jpg", "text": "I need Saran Wrap for this.", "category": "conv"}
+{"question_id": 56, "image": "15_10.jpg", "text": "My throat is already moistened.", "category": "conv"}
+{"question_id": 57, "image": "04_10.jpg", "text": "This tastes bland, doesn't it?", "category": "conv"}
+{"question_id": 58, "image": "19_01.jpg", "text": "I won't use tissues anymore.", "category": "conv"}
+{"question_id": 59, "image": "09_01.jpg", "text": "I'm feeling a little hungry.", "category": "conv"}
+{"question_id": 60, "image": "20_04.jpg", "text": "It's a hassle to walk all the way to the trash can.", "category": "conv"}
+{"question_id": 61, "image": "09_02.jpg", "text": "I'm feeling a little hungry.", "category": "conv"}
+{"question_id": 62, "image": "14_04.jpg", "text": "Has that child already gone to sleep?", "category": "conv"}
+{"question_id": 63, "image": "15_03.jpg", "text": "I finished drinking.", "category": "conv"}
+{"question_id": 64, "image": "34_10.jpg", "text": "I have already used the grater.", "category": "conv"}
+{"question_id": 65, "image": "12_05.jpg", "text": "I have to go now.", "category": "conv"}
+{"question_id": 66, "image": "14_03.jpg", "text": "Stop playing and let's work.", "category": "conv"}
+{"question_id": 67, "image": "19_08.jpg", "text": "Ah, I feel refreshed.", "category": "conv"}
+{"question_id": 68, "image": "10_01.jpg", "text": "It was delicious.", "category": "conv"}
+{"question_id": 69, "image": "13_01.jpg", "text": "I forgot the ketchup.", "category": "conv"}
+{"question_id": 70, "image": "16_09.jpg", "text": "It was fun.", "category": "conv"}
+{"question_id": 71, "image": "18_08.jpg", "text": "I will resume work.", "category": "conv"}
+{"question_id": 72, "image": "23_04.jpg", "text": "Where is the glass?", "category": "conv"}
+{"question_id": 73, "image": "02_05.jpg", "text": "I need to charge soon.", "category": "conv"}
+{"question_id": 74, "image": "35_02.jpg", "text": "If there were no kitchen paper, there would be more space.", "category": "conv"}
+{"question_id": 75, "image": "34_01.jpg", "text": "Alright, the grated radish is ready.", "category": "conv"}
+{"question_id": 76, "image": "11_02.jpg", "text": "I'm in a hurry today.", "category": "conv"}
+{"question_id": 77, "image": "01_03.jpg", "text": "Good morning.", "category": "conv"}
+{"question_id": 78, "image": "11_05.jpg", "text": "I don't use cables anymore.", "category": "conv"}
+{"question_id": 79, "image": "21_09.jpg", "text": "Huh? There's no can opener.", "category": "conv"}
+{"question_id": 80, "image": "38_02.jpg", "text": "I'm happy when the rice in the tupperware is warm.", "category": "conv"}
+{"question_id": 81, "image": "40_03.jpg", "text": "Tomorrow is finally a day off.", "category": "conv"}
+{"question_id": 82, "image": "20_05.jpg", "text": "Thank you for the meal.", "category": "conv"}
+{"question_id": 83, "image": "28_06.jpg", "text": "Why are there potatoes in such a place?", "category": "conv"}
+{"question_id": 84, "image": "27_05.jpg", "text": "We need olive oil first.", "category": "conv"}
+{"question_id": 85, "image": "27_07.jpg", "text": "Is salad oil bad for your health?", "category": "conv"}
+{"question_id": 86, "image": "26_09.jpg", "text": "Is that a lemon? Or is it a lime?", "category": "conv"}
+{"question_id": 87, "image": "02_07.jpg", "text": "Don't drain the battery.", "category": "conv"}
+{"question_id": 88, "image": "38_07.jpg", "text": "I want to eat a warm breakfast quickly.", "category": "conv"}
+{"question_id": 89, "image": "09_08.jpg", "text": "My friend is coming to play.", "category": "conv"}
+{"question_id": 90, "image": "19_10.jpg", "text": "I don't have a runny nose now.", "category": "conv"}
+{"question_id": 91, "image": "09_09.jpg", "text": "I wonder if I should eat something.", "category": "conv"}
+{"question_id": 92, "image": "13_09.jpg", "text": "Let's eat at this table.", "category": "conv"}
+{"question_id": 93, "image": "37_02.jpg", "text": "Shall we wait a little until it cools down?", "category": "conv"}
+{"question_id": 94, "image": "38_09.jpg", "text": "Ah, I was planning to warm it up.", "category": "conv"}
+{"question_id": 95, "image": "23_05.jpg", "text": "Huh? One more is missing.", "category": "conv"}
+{"question_id": 96, "image": "35_04.jpg", "text": "The dirt is also clean, so all that's left is to wait.", "category": "conv"}
+{"question_id": 97, "image": "30_09.jpg", "text": "I should have brought a water bottle too.", "category": "conv"}
+{"question_id": 98, "image": "21_05.jpg", "text": "Can opener...", "category": "conv"}
+{"question_id": 99, "image": "19_03.jpg", "text": "The tissues are in the way.", "category": "conv"}
+{"question_id": 100, "image": "29_10.jpg", "text": "I should have brought Saran Wrap.", "category": "conv"}
+{"question_id": 101, "image": "36_04.jpg", "text": "Let's drink the rest later.", "category": "conv"}
+{"question_id": 102, "image": "36_03.jpg", "text": "If it stays like this, the drink in the PET bottle will become lukewarm.", "category": "conv"}
+{"question_id": 103, "image": "07_04.jpg", "text": "I'm starting to feel a little sleepy.", "category": "conv"}
+{"question_id": 104, "image": "35_05.jpg", "text": "I have to move things because the kitchen is a bit small.", "category": "conv"}
+{"question_id": 105, "image": "22_04.jpg", "text": "I can't bring the cooking sheet.", "category": "conv"}
+{"question_id": 106, "image": "01_06.jpg", "text": "I want some sugar.", "category": "conv"}
+{"question_id": 107, "image": "29_05.jpg", "text": "I wonder where the Saran Wrap went.", "category": "conv"}
+{"question_id": 108, "image": "13_04.jpg", "text": "The only thing left is ketchup.", "category": "conv"}
+{"question_id": 109, "image": "16_03.jpg", "text": "I don't watch TV anymore.", "category": "conv"}
+{"question_id": 110, "image": "30_01.jpg", "text": "I have to put tea in my water bottle.", "category": "conv"}
+{"question_id": 111, "image": "05_05.jpg", "text": "If you don't check the contents early,", "category": "conv"}
+{"question_id": 112, "image": "27_01.jpg", "text": "I finished coating it with breadcrumbs.", "category": "conv"}
+{"question_id": 113, "image": "24_06.jpg", "text": "Hmm, where did I put the grater?", "category": "conv"}
+{"question_id": 114, "image": "22_10.jpg", "text": "I forgot the cooking sheet.", "category": "conv"}
+{"question_id": 115, "image": "09_06.jpg", "text": "It's break time.", "category": "conv"}
+{"question_id": 116, "image": "13_08.jpg", "text": "Thank you for the meal.", "category": "conv"}
+{"question_id": 117, "image": "02_04.jpg", "text": "I got tired because I played games without taking a break.", "category": "conv"}
+{"question_id": 118, "image": "20_01.jpg", "text": "I'll do the cleaning.", "category": "conv"}
+{"question_id": 119, "image": "31_04.jpg", "text": "I was finally able to open the canned food.", "category": "conv"}
+{"question_id": 120, "image": "32_02.jpg", "text": "The cooking sheet is already finished being used.", "category": "conv"}
+{"question_id": 121, "image": "15_06.jpg", "text": "It became empty.", "category": "conv"}
+{"question_id": 122, "image": "18_06.jpg", "text": "If there are sweets, I'll eat them.", "category": "conv"}
+{"question_id": 123, "image": "19_02.jpg", "text": "Let's finish work early today.", "category": "conv"}
+{"question_id": 124, "image": "08_09.jpg", "text": "What could it be?", "category": "conv"}
+{"question_id": 125, "image": "33_10.jpg", "text": "It's dangerous when the glass breaks.", "category": "conv"}
+{"question_id": 126, "image": "21_01.jpg", "text": "How do you open this again?", "category": "conv"}
+{"question_id": 127, "image": "17_04.jpg", "text": "I can't concentrate on work when I have a smartphone.", "category": "conv"}
+{"question_id": 128, "image": "05_07.jpg", "text": "Come to think of it, I had something to do at the post office.", "category": "conv"}
+{"question_id": 129, "image": "17_10.jpg", "text": "I finished using my smartphone.", "category": "conv"}
+{"question_id": 130, "image": "15_09.jpg", "text": "Don't let the plastic bottle come into view.", "category": "conv"}
+{"question_id": 131, "image": "38_04.jpg", "text": "Should I use the leftovers from yesterday?", "category": "conv"}
+{"question_id": 132, "image": "17_09.jpg", "text": "I can't help but be concerned about my smartphone.", "category": "conv"}
+{"question_id": 133, "image": "34_02.jpg", "text": "I'm tired of grating daikon.", "category": "conv"}
+{"question_id": 134, "image": "02_08.jpg", "text": "The battery is in bad condition.", "category": "conv"}
+{"question_id": 135, "image": "06_09.jpg", "text": "I'm sweating and feeling gross.", "category": "conv"}
+{"question_id": 136, "image": "25_05.jpg", "text": "I can't seem to pour water very well.", "category": "conv"}
+{"question_id": 137, "image": "07_07.jpg", "text": "It's about time for baseball.", "category": "conv"}
+{"question_id": 138, "image": "35_06.jpg", "text": "I'm tired and can't move anymore because I went to various places today.", "category": "conv"}
+{"question_id": 139, "image": "20_08.jpg", "text": "Should I clean up and take a rest?", "category": "conv"}
+{"question_id": 140, "image": "38_08.jpg", "text": "Let's eat this today.", "category": "conv"}
+{"question_id": 141, "image": "11_08.jpg", "text": "Charging is complete, isn't it?", "category": "conv"}
+{"question_id": 142, "image": "39_08.jpg", "text": "Tomorrow's bento is ready.", "category": "conv"}
+{"question_id": 143, "image": "02_09.jpg", "text": "Not enough battery.", "category": "conv"}
+{"question_id": 144, "image": "09_05.jpg", "text": "It's snack time.", "category": "conv"}
+{"question_id": 145, "image": "12_10.jpg", "text": "The customer has left.", "category": "conv"}
+{"question_id": 146, "image": "36_05.jpg", "text": "I've also hydrated, so maybe it's time to go to bed.", "category": "conv"}
+{"question_id": 147, "image": "23_02.jpg", "text": "Ah, a glass.", "category": "conv"}
+{"question_id": 148, "image": "22_07.jpg", "text": "Oh! The thing I laid on the frying pan was a piece of copy paper.", "category": "conv"}
+{"question_id": 149, "image": "04_01.jpg", "text": "It's done, it's done.", "category": "conv"}
+{"question_id": 150, "image": "11_03.jpg", "text": "I don't need the cable anymore.", "category": "conv"}
+{"question_id": 151, "image": "38_01.jpg", "text": "I want to heat up the food in the Tupperware before eating it.", "category": "conv"}
+{"question_id": 152, "image": "01_01.jpg", "text": "Will this be enough to last until morning?", "category": "conv"}
+{"question_id": 153, "image": "38_03.jpg", "text": "The simmered dish I made in advance has gotten cold.", "category": "conv"}
+{"question_id": 154, "image": "32_09.jpg", "text": "I mistook it for kitchen paper.", "category": "conv"}
+{"question_id": 155, "image": "02_10.jpg", "text": "Today is busy.", "category": "conv"}
+{"question_id": 156, "image": "37_04.jpg", "text": "Today is over with this.", "category": "conv"}
+{"question_id": 157, "image": "14_02.jpg", "text": "I will send the child.", "category": "conv"}
+{"question_id": 158, "image": "21_10.jpg", "text": "I forgot the can opener.", "category": "conv"}
+{"question_id": 159, "image": "38_10.jpg", "text": "Let's warm this up and eat it today.", "category": "conv"}
+{"question_id": 160, "image": "33_05.jpg", "text": "It's dangerous if the glass is left out.", "category": "conv"}
+{"question_id": 161, "image": "37_08.jpg", "text": "Cleaning up can wait until tomorrow.", "category": "conv"}
+{"question_id": 162, "image": "03_07.jpg", "text": "I'm so nervous.", "category": "conv"}
+{"question_id": 163, "image": "31_08.jpg", "text": "I have to clean up the can opener.", "category": "conv"}
+{"question_id": 164, "image": "06_04.jpg", "text": "I'll be back.", "category": "conv"}
+{"question_id": 165, "image": "25_07.jpg", "text": "Where is the kitchen paper?", "category": "conv"}
+{"question_id": 166, "image": "26_05.jpg", "text": "We don't have any lemons.", "category": "conv"}
+{"question_id": 167, "image": "32_06.jpg", "text": "Let's eat it while it's still hot.", "category": "conv"}
+{"question_id": 168, "image": "10_07.jpg", "text": "There is no tissue.", "category": "conv"}
+{"question_id": 169, "image": "12_08.jpg", "text": "I drank it all.", "category": "conv"}
+{"question_id": 170, "image": "06_03.jpg", "text": "Do you want to practice the presentation?", "category": "conv"}
+{"question_id": 171, "image": "27_02.jpg", "text": "What about the olive oil?", "category": "conv"}
+{"question_id": 172, "image": "26_04.jpg", "text": "Where is the lemon?", "category": "conv"}
+{"question_id": 173, "image": "28_04.jpg", "text": "I wonder where the potatoes went, there are none.", "category": "conv"}
+{"question_id": 174, "image": "30_06.jpg", "text": "I don't have a water bottle.", "category": "conv"}
+{"question_id": 175, "image": "18_07.jpg", "text": "Is it time for dinner soon?", "category": "conv"}
+{"question_id": 176, "image": "28_07.jpg", "text": "Is there anything else that can be used as an ingredient?", "category": "conv"}
+{"question_id": 177, "image": "37_10.jpg", "text": "Saran wrap was good at the end.", "category": "conv"}
+{"question_id": 178, "image": "33_07.jpg", "text": "Now, let's do our best with the remaining work.", "category": "conv"}
+{"question_id": 179, "image": "06_05.jpg", "text": "Don't let your throat get dry.", "category": "conv"}
+{"question_id": 180, "image": "38_06.jpg", "text": "Just heat it up in a tupperware container and it's ready to serve.", "category": "conv"}
+{"question_id": 181, "image": "24_03.jpg", "text": "Did I leave the grater over there...?", "category": "conv"}
+{"question_id": 182, "image": "39_10.jpg", "text": "Since I made a lot, I'll leave this for today and not eat it.", "category": "conv"}
+{"question_id": 183, "image": "36_06.jpg", "text": "Let's drink later.", "category": "conv"}
+{"question_id": 184, "image": "08_07.jpg", "text": "I want a dieting device.", "category": "conv"}
+{"question_id": 185, "image": "03_09.jpg", "text": "I'm thirsty.", "category": "conv"}
+{"question_id": 186, "image": "27_03.jpg", "text": "Definitely, pasta needs olive oil, right?", "category": "conv"}
+{"question_id": 187, "image": "07_05.jpg", "text": "Where is the remote control?", "category": "conv"}
+{"question_id": 188, "image": "12_02.jpg", "text": "I'm going to the bathroom.", "category": "conv"}
+{"question_id": 189, "image": "08_08.jpg", "text": "Where did I put my smartphone?", "category": "conv"}
+{"question_id": 190, "image": "17_07.jpg", "text": "Let's watch it on TV.", "category": "conv"}
+{"question_id": 191, "image": "39_01.jpg", "text": "If we leave it like this, the leftovers will rot.", "category": "conv"}
+{"question_id": 192, "image": "32_10.jpg", "text": "We don't need a cooking sheet anymore.", "category": "conv"}
+{"question_id": 193, "image": "40_07.jpg", "text": "Let's continue to work hard and keep jogging for our health.", "category": "conv"}
+{"question_id": 194, "image": "14_06.jpg", "text": "The table is messy.", "category": "conv"}
+{"question_id": 195, "image": "27_06.jpg", "text": "Shall I add a little more olive oil?", "category": "conv"}
+{"question_id": 196, "image": "26_02.jpg", "text": "The final touch is necessary.", "category": "conv"}
+{"question_id": 197, "image": "30_03.jpg", "text": "I have to go get the water bottle on the desk.", "category": "conv"}
+{"question_id": 198, "image": "36_08.jpg", "text": "Let's take a break.", "category": "conv"}
+{"question_id": 199, "image": "14_07.jpg", "text": "Hello.", "category": "conv"}
+{"question_id": 200, "image": "08_01.jpg", "text": "I wonder if I will receive a message soon.", "category": "conv"}
+{"question_id": 201, "image": "12_03.jpg", "text": "I finished drinking.", "category": "conv"}
+{"question_id": 202, "image": "03_06.jpg", "text": "There is no cup.", "category": "conv"}
+{"question_id": 203, "image": "33_06.jpg", "text": "I'm already full and can't move.", "category": "conv"}
+{"question_id": 204, "image": "39_06.jpg", "text": "Alright, preparations are complete.", "category": "conv"}
+{"question_id": 205, "image": "11_04.jpg", "text": "I want to clean up the desk.", "category": "conv"}
+{"question_id": 206, "image": "18_02.jpg", "text": "I'm going to pick up the child.", "category": "conv"}
+{"question_id": 207, "image": "01_02.jpg", "text": "Shall we take a little break?", "category": "conv"}
+{"question_id": 208, "image": "16_10.jpg", "text": "I have to go soon.", "category": "conv"}
+{"question_id": 209, "image": "18_10.jpg", "text": "I ate sweets again.", "category": "conv"}
+{"question_id": 210, "image": "05_03.jpg", "text": "I wonder where I put that delivery package.", "category": "conv"}
+{"question_id": 211, "image": "06_06.jpg", "text": "It's hot, but I'm going out for a bit.", "category": "conv"}
+{"question_id": 212, "image": "26_01.jpg", "text": "Some people may not like it, but I'll cut and serve the lemon just in case.", "category": "conv"}
+{"question_id": 213, "image": "07_08.jpg", "text": "Where is the remote control again?", "category": "conv"}
+{"question_id": 214, "image": "28_08.jpg", "text": "I forgot to bring the potatoes.", "category": "conv"}
+{"question_id": 215, "image": "37_03.jpg", "text": "Let's save the rest for tomorrow's lunch.", "category": "conv"}
+{"question_id": 216, "image": "34_04.jpg", "text": "With this, the daikon radish grating is finished.", "category": "conv"}
+{"question_id": 217, "image": "35_03.jpg", "text": "Oh, the kitchen paper is in the way and there's no space to put the dishes.", "category": "conv"}
+{"question_id": 218, "image": "02_01.jpg", "text": "I wonder if I should watch a movie.", "category": "conv"}
+{"question_id": 219, "image": "18_03.jpg", "text": "I finished eating.", "category": "conv"}
+{"question_id": 220, "image": "33_08.jpg", "text": "I didn't need one.", "category": "conv"}
+{"question_id": 221, "image": "07_10.jpg", "text": "I'm tired.", "category": "conv"}
+{"question_id": 222, "image": "31_02.jpg", "text": "I don't need a can opener anymore.", "category": "conv"}
+{"question_id": 223, "image": "10_05.jpg", "text": "I bought some snacks on my way back.", "category": "conv"}
+{"question_id": 224, "image": "29_02.jpg", "text": "Ah, I forgot.", "category": "conv"}
+{"question_id": 225, "image": "35_09.jpg", "text": "I still have kitchen paper.", "category": "conv"}
+{"question_id": 226, "image": "10_03.jpg", "text": "Hay fever is tough.", "category": "conv"}
+{"question_id": 227, "image": "29_04.jpg", "text": "The wrap is left on the table.", "category": "conv"}
+{"question_id": 228, "image": "22_02.jpg", "text": "Oh, where is the cooking sheet?", "category": "conv"}
+{"question_id": 229, "image": "40_08.jpg", "text": "This is fine.", "category": "conv"}
+{"question_id": 230, "image": "11_06.jpg", "text": "The table is messy.", "category": "conv"}
+{"question_id": 231, "image": "23_10.jpg", "text": "I forgot the glass.", "category": "conv"}
+{"question_id": 232, "image": "09_03.jpg", "text": "I'm going to watch a movie now.", "category": "conv"}
+{"question_id": 233, "image": "32_07.jpg", "text": "Let's plate the cookies.", "category": "conv"}
+{"question_id": 234, "image": "19_04.jpg", "text": "My nose feels refreshed.", "category": "conv"}
+{"question_id": 235, "image": "24_08.jpg", "text": "Daikon is essential for sanma, right?", "category": "conv"}
+{"question_id": 236, "image": "24_09.jpg", "text": "Shall I also make some grated daikon radish?", "category": "conv"}
+{"question_id": 237, "image": "02_03.jpg", "text": "I'm home.", "category": "conv"}
+{"question_id": 238, "image": "13_02.jpg", "text": "I'll take a short break and come back.", "category": "conv"}
+{"question_id": 239, "image": "17_05.jpg", "text": "I don't want to look at my smartphone before going to bed.", "category": "conv"}
+{"question_id": 240, "image": "03_02.jpg", "text": "I'm thirsty after taking a bath.", "category": "conv"}
+{"question_id": 241, "image": "31_03.jpg", "text": "Alright, is this all the cans?", "category": "conv"}
+{"question_id": 242, "image": "37_06.jpg", "text": "Is this okay?", "category": "conv"}
+{"question_id": 243, "image": "39_03.jpg", "text": "Alright, the side dishes are ready.", "category": "conv"}
+{"question_id": 244, "image": "39_02.jpg", "text": "It's delicious when you chill it and let it mature before eating.", "category": "conv"}
+{"question_id": 245, "image": "03_04.jpg", "text": "I'm starting to feel a little sleepy.", "category": "conv"}
+{"question_id": 246, "image": "20_03.jpg", "text": "Should I go to bed early?", "category": "conv"}
+{"question_id": 247, "image": "36_10.jpg", "text": "The drink becomes lukewarm.", "category": "conv"}
+{"question_id": 248, "image": "23_09.jpg", "text": "Ah, I forgot to wash the glass.", "category": "conv"}
+{"question_id": 249, "image": "11_10.jpg", "text": "Charging is complete.", "category": "conv"}
+{"question_id": 250, "image": "25_04.jpg", "text": "I wonder if the bitterness of the eggplant has subsided by now.", "category": "conv"}
+{"question_id": 251, "image": "08_06.jpg", "text": "What about the smartphone?", "category": "conv"}
+{"question_id": 252, "image": "25_03.jpg", "text": "I forgot the kitchen paper.", "category": "conv"}
+{"question_id": 253, "image": "06_02.jpg", "text": "I worked up a good sweat.", "category": "conv"}
+{"question_id": 254, "image": "10_08.jpg", "text": "What a nice scene.", "category": "conv"}
+{"question_id": 255, "image": "03_03.jpg", "text": "It was a good temperature.", "category": "conv"}
+{"question_id": 256, "image": "06_08.jpg", "text": "Huh?", "category": "conv"}
+{"question_id": 257, "image": "26_08.jpg", "text": "Huh? The lemons I bought are gone.", "category": "conv"}
+{"question_id": 258, "image": "34_07.jpg", "text": "The grater is finished washing and it's dry.", "category": "conv"}
+{"question_id": 259, "image": "37_05.jpg", "text": "I wonder what kind of dish I should use meat in.", "category": "conv"}
+{"question_id": 260, "image": "21_07.jpg", "text": "Where did I put the can opener?", "category": "conv"}
+{"question_id": 261, "image": "20_06.jpg", "text": "The garbage is in the way.", "category": "conv"}
+{"question_id": 262, "image": "05_06.jpg", "text": "I wonder where I put the smartphone case that arrived earlier.", "category": "conv"}
+{"question_id": 263, "image": "06_10.jpg", "text": "Good morning.", "category": "conv"}
+{"question_id": 264, "image": "03_01.jpg", "text": "I have to take medicine.", "category": "conv"}
+{"question_id": 265, "image": "30_07.jpg", "text": "I forgot my water bottle.", "category": "conv"}
+{"question_id": 266, "image": "10_04.jpg", "text": "Nosebleed.", "category": "conv"}
+{"question_id": 267, "image": "30_02.jpg", "text": "Where did I put my water bottle?", "category": "conv"}
+{"question_id": 268, "image": "25_02.jpg", "text": "Kitchen paper is the best for absorbing oil, right?", "category": "conv"}
+{"question_id": 269, "image": "09_04.jpg", "text": "It was tough because it didn't tidy up easily.", "category": "conv"}
+{"question_id": 270, "image": "18_05.jpg", "text": "I am on a diet.", "category": "conv"}
+{"question_id": 271, "image": "19_05.jpg", "text": "I don't need tissues anymore.", "category": "conv"}
+{"question_id": 272, "image": "21_06.jpg", "text": "Where was the can opener?", "category": "conv"}
+{"question_id": 273, "image": "39_05.jpg", "text": "Let's have it as tonight's dessert.", "category": "conv"}
+{"question_id": 274, "image": "04_02.jpg", "text": "Potatoes are delicious, aren't they?", "category": "conv"}
+{"question_id": 275, "image": "04_04.jpg", "text": "I forgot to put ketchup on it.", "category": "conv"}
+{"question_id": 276, "image": "22_06.jpg", "text": "Cooking sheet, was it in a place like that?", "category": "conv"}
+{"question_id": 277, "image": "25_09.jpg", "text": "Should I wipe it with kitchen paper?", "category": "conv"}
+{"question_id": 278, "image": "31_10.jpg", "text": "I want to use the kitchen sink, but it's messy.", "category": "conv"}
+{"question_id": 279, "image": "07_06.jpg", "text": "Hello?", "category": "conv"}
+{"question_id": 280, "image": "25_06.jpg", "text": "There is only a cloth that has been used to wipe the floor.", "category": "conv"}
+{"question_id": 281, "image": "11_07.jpg", "text": "Good morning.", "category": "conv"}
+{"question_id": 282, "image": "22_08.jpg", "text": "You need to lay down a cooking sheet before baking.", "category": "conv"}
+{"question_id": 283, "image": "04_09.jpg", "text": "Shall we add a little more flavor?", "category": "conv"}
+{"question_id": 284, "image": "17_01.jpg", "text": "I finished my job of checking my smartphone.", "category": "conv"}
+{"question_id": 285, "image": "04_07.jpg", "text": "Hmm, where was the ketchup again?", "category": "conv"}
+{"question_id": 286, "image": "24_10.jpg", "text": "Shall I serve it with grated daikon radish?", "category": "conv"}
+{"question_id": 287, "image": "27_08.jpg", "text": "Olive oil is also necessary, but it's a hassle to go get it.", "category": "conv"}
+{"question_id": 288, "image": "20_09.jpg", "text": "If I throw it from here, it will go in, right?", "category": "conv"}
+{"question_id": 289, "image": "23_01.jpg", "text": "I'm thirsty.", "category": "conv"}
+{"question_id": 290, "image": "34_03.jpg", "text": "Alright, the grated radish is ready.", "category": "conv"}
+{"question_id": 291, "image": "08_04.jpg", "text": "I had to make a phone call to the other party.", "category": "conv"}
+{"question_id": 292, "image": "06_07.jpg", "text": "I'm getting thirsty.", "category": "conv"}
+{"question_id": 293, "image": "40_06.jpg", "text": "Oh, the TV show I want to watch is starting.", "category": "conv"}
+{"question_id": 294, "image": "32_01.jpg", "text": "Let's use the cooking sheet later.", "category": "conv"}
+{"question_id": 295, "image": "26_10.jpg", "text": "I forgot the lemon.", "category": "conv"}
+{"question_id": 296, "image": "36_01.jpg", "text": "I need to organize the contents of the refrigerator.", "category": "conv"}
+{"question_id": 297, "image": "07_03.jpg", "text": "Another program is about to start soon.", "category": "conv"}
+{"question_id": 298, "image": "01_10.jpg", "text": "Hello!", "category": "conv"}
+{"question_id": 299, "image": "29_06.jpg", "text": "There is no wrap.", "category": "conv"}
+{"question_id": 300, "image": "14_10.jpg", "text": "Will you clean up your toys?", "category": "conv"}
+{"question_id": 301, "image": "32_03.jpg", "text": "Just need to bake it.", "category": "conv"}
+{"question_id": 302, "image": "05_02.jpg", "text": "Where did I put the home delivery package?", "category": "conv"}
+{"question_id": 303, "image": "02_06.jpg", "text": "I forgot to charge it.", "category": "conv"}
+{"question_id": 304, "image": "01_07.jpg", "text": "This banana looks delicious.", "category": "conv"}
+{"question_id": 305, "image": "24_04.jpg", "text": "I wonder where I put it away.", "category": "conv"}
+{"question_id": 306, "image": "09_07.jpg", "text": "Did we have any snacks?", "category": "conv"}
+{"question_id": 307, "image": "28_02.jpg", "text": "Where did I put the potatoes?", "category": "conv"}
+{"question_id": 308, "image": "39_09.jpg", "text": "Leftovers should be frozen as soon as possible.", "category": "conv"}
+{"question_id": 309, "image": "05_01.jpg", "text": "I have to organize my belongings.", "category": "conv"}
+{"question_id": 310, "image": "27_04.jpg", "text": "Finally, it's all over with that one bottle of olive oil.", "category": "conv"}
+{"question_id": 311, "image": "21_03.jpg", "text": "Hey, where's the can opener?", "category": "conv"}
+{"question_id": 312, "image": "16_05.jpg", "text": "Is it time to leave already?", "category": "conv"}
+{"question_id": 313, "image": "05_09.jpg", "text": "By the way, something arrived.", "category": "conv"}
+{"question_id": 314, "image": "35_01.jpg", "text": "I have thoroughly wiped the dishes with kitchen paper.", "category": "conv"}
+{"question_id": 315, "image": "10_02.jpg", "text": "I can't stop my runny nose.", "category": "conv"}
+{"question_id": 316, "image": "15_08.jpg", "text": "It was delicious.", "category": "conv"}
+{"question_id": 317, "image": "39_04.jpg", "text": "No, let's save the leftover curry for next time.", "category": "conv"}
+{"question_id": 318, "image": "33_09.jpg", "text": "I forgot to put away only the glass.", "category": "conv"}
+{"question_id": 319, "image": "12_06.jpg", "text": "The coffee was delicious.", "category": "conv"}
+{"question_id": 320, "image": "36_09.jpg", "text": "Wow! It's gotten warm.", "category": "conv"}
+{"question_id": 321, "image": "20_02.jpg", "text": "Thank you for your hard work today.", "category": "conv"}
+{"question_id": 322, "image": "25_08.jpg", "text": "There is kitchen paper in such a place.", "category": "conv"}
+{"question_id": 323, "image": "23_08.jpg", "text": "There are also glasses that haven't been polished on the table.", "category": "conv"}
+{"question_id": 324, "image": "14_05.jpg", "text": "I have to clean up my toys.", "category": "conv"}
+{"question_id": 325, "image": "32_05.jpg", "text": "I don't use cooking sheets anymore.", "category": "conv"}
+{"question_id": 326, "image": "04_03.jpg", "text": "I just received a lot of french fries from my friend.", "category": "conv"}
+{"question_id": 327, "image": "01_08.jpg", "text": "I'm feeling a bit hungry.", "category": "conv"}
+{"question_id": 328, "image": "21_02.jpg", "text": "Let's start by opening a can.", "category": "conv"}
+{"question_id": 329, "image": "35_07.jpg", "text": "It's still difficult to have so many things to put away.", "category": "conv"}
+{"question_id": 330, "image": "37_07.jpg", "text": "Saran wrap is in the way, isn't it?", "category": "conv"}
+{"question_id": 331, "image": "11_09.jpg", "text": "I wonder if the smartphone's battery is fully charged.", "category": "conv"}
+{"question_id": 332, "image": "29_07.jpg", "text": "I forgot the plastic wrap.", "category": "conv"}
+{"question_id": 333, "image": "08_02.jpg", "text": "It seems like there's a phone call.", "category": "conv"}
+{"question_id": 334, "image": "31_05.jpg", "text": "Ah, I forgot to put away the can opener.", "category": "conv"}
+{"question_id": 335, "image": "15_05.jpg", "text": "Shall I take a nap?", "category": "conv"}
+{"question_id": 336, "image": "18_01.jpg", "text": "The sweets are getting in the way.", "category": "conv"}
+{"question_id": 337, "image": "17_06.jpg", "text": "Shall I clean up the table?", "category": "conv"}
+{"question_id": 338, "image": "07_02.jpg", "text": "It's about to start soon.", "category": "conv"}
+{"question_id": 339, "image": "08_10.jpg", "text": "I'm going to invite my friends and go shopping from now on.", "category": "conv"}
+{"question_id": 340, "image": "34_09.jpg", "text": "There are no vegetables.", "category": "conv"}
+{"question_id": 341, "image": "26_06.jpg", "text": "I want to cut the lemon, but the table is dirty.", "category": "conv"}
+{"question_id": 342, "image": "33_03.jpg", "text": "The dishes are done.", "category": "conv"}
+{"question_id": 343, "image": "03_05.jpg", "text": "I forgot to bring the cup.", "category": "conv"}
+{"question_id": 344, "image": "18_09.jpg", "text": "I might gain weight.", "category": "conv"}
+{"question_id": 345, "image": "13_03.jpg", "text": "Ketchup is in the way.", "category": "conv"}
+{"question_id": 346, "image": "15_01.jpg", "text": "I forgot that it's empty.", "category": "conv"}
+{"question_id": 347, "image": "04_05.jpg", "text": "Oops, I forgot to bring the ketchup.", "category": "conv"}
+{"question_id": 348, "image": "17_03.jpg", "text": "My smartphone is so annoying.", "category": "conv"}
+{"question_id": 349, "image": "15_07.jpg", "text": "Good morning.", "category": "conv"}
+{"question_id": 350, "image": "36_02.jpg", "text": "I already drank it, so I want to chill the water bottle.", "category": "conv"}
+{"question_id": 351, "image": "16_02.jpg", "text": "I will come and talk to the customer.", "category": "conv"}
+{"question_id": 352, "image": "31_07.jpg", "text": "I have to tidy up.", "category": "conv"}
+{"question_id": 353, "image": "04_08.jpg", "text": "The taste is weak.", "category": "conv"}
+{"question_id": 354, "image": "27_09.jpg", "text": "I want to drizzle olive oil as a finishing touch.", "category": "conv"}
+{"question_id": 355, "image": "11_01.jpg", "text": "The cable is in the way.", "category": "conv"}
+{"question_id": 356, "image": "33_02.jpg", "text": "I want to drink deliciously with this glass tomorrow too.", "category": "conv"}
+{"question_id": 357, "image": "14_09.jpg", "text": "The mini car looks like it's about to break.", "category": "conv"}
+{"question_id": 358, "image": "37_01.jpg", "text": "I have to clean up after using it.", "category": "conv"}
+{"question_id": 359, "image": "16_08.jpg", "text": "It was interesting.", "category": "conv"}
+{"question_id": 360, "image": "34_06.jpg", "text": "I have an unmissable TV show, so I'll clean up later.", "category": "conv"}
+{"question_id": 361, "image": "27_10.jpg", "text": "I forgot the olive oil.", "category": "conv"}
+{"question_id": 362, "image": "32_08.jpg", "text": "Just wait.", "category": "conv"}
+{"question_id": 363, "image": "24_01.jpg", "text": "Where is the grater?", "category": "conv"}
+{"question_id": 364, "image": "23_07.jpg", "text": "I feel like something is missing.", "category": "conv"}
+{"question_id": 365, "image": "13_10.jpg", "text": "Thank you for the meal, let's clean up the dishes.", "category": "conv"}
+{"question_id": 366, "image": "08_03.jpg", "text": "I wonder if the message has been delivered.", "category": "conv"}
+{"question_id": 367, "image": "16_01.jpg", "text": "Alright! I won, I won!", "category": "conv"}
+{"question_id": 368, "image": "22_09.jpg", "text": "Where was the cooking sheet?", "category": "conv"}
+{"question_id": 369, "image": "17_02.jpg", "text": "I will hurry home.", "category": "conv"}
+{"question_id": 370, "image": "24_02.jpg", "text": "I wonder where the grater is.", "category": "conv"}
+{"question_id": 371, "image": "26_03.jpg", "text": "The lemon was left out.", "category": "conv"}
+{"question_id": 372, "image": "07_09.jpg", "text": "I'm home.", "category": "conv"}
+{"question_id": 373, "image": "39_07.jpg", "text": "Let's continue eating bento and do our best from tomorrow.", "category": "conv"}
+{"question_id": 374, "image": "04_06.jpg", "text": "I haven't prepared the ketchup.", "category": "conv"}
+{"question_id": 375, "image": "12_01.jpg", "text": "The cup is in the way.", "category": "conv"}
+{"question_id": 376, "image": "08_05.jpg", "text": "Where is my smartphone?", "category": "conv"}
+{"question_id": 377, "image": "16_04.jpg", "text": "I always forget to tidy up the remote control.", "category": "conv"}
+{"question_id": 378, "image": "24_05.jpg", "text": "I forgot the grater.", "category": "conv"}
+{"question_id": 379, "image": "20_10.jpg", "text": "It was delicious.", "category": "conv"}
+{"question_id": 380, "image": "01_09.jpg", "text": "Let's eat breakfast.", "category": "conv"}
+{"question_id": 381, "image": "13_05.jpg", "text": "I don't use ketchup anymore.", "category": "conv"}
+{"question_id": 382, "image": "33_04.jpg", "text": "I hydrated and did the dishes, so I guess it's time to go out.", "category": "conv"}
+{"question_id": 383, "image": "15_04.jpg", "text": "The plastic bottle is in the way.", "category": "conv"}
+{"question_id": 384, "image": "19_07.jpg", "text": "I wonder if the dirt is gone with this.", "category": "conv"}
+{"question_id": 385, "image": "28_10.jpg", "text": "I forgot the potatoes.", "category": "conv"}
+{"question_id": 386, "image": "25_10.jpg", "text": "It's inconvenient when there is no kitchen paper even at the sink.", "category": "conv"}
+{"question_id": 387, "image": "16_07.jpg", "text": "Good night.", "category": "conv"}
+{"question_id": 388, "image": "30_10.jpg", "text": "I had to wash the water bottle too.", "category": "conv"}
+{"question_id": 389, "image": "22_03.jpg", "text": "There is no cooking sheet.", "category": "conv"}
+{"question_id": 390, "image": "22_01.jpg", "text": "Let's start preheating the oven.", "category": "conv"}
+{"question_id": 391, "image": "06_01.jpg", "text": "Painful.", "category": "conv"}
+{"question_id": 392, "image": "07_01.jpg", "text": "I forgot that the drama was starting.", "category": "conv"}
+{"question_id": 393, "image": "10_09.jpg", "text": "I'm about to cry.", "category": "conv"}
+{"question_id": 394, "image": "22_05.jpg", "text": "What should I do? The fabric won't come off.", "category": "conv"}
+{"question_id": 395, "image": "28_01.jpg", "text": "By the way, should I also make some french fries as a side dish?", "category": "conv"}
+{"question_id": 396, "image": "21_04.jpg", "text": "Oh, there's no can opener.", "category": "conv"}
+{"question_id": 397, "image": "30_08.jpg", "text": "Oh no, I forgot to bring my water bottle.", "category": "conv"}
+{"question_id": 398, "image": "25_01.jpg", "text": "Shall I let the paper absorb the oil?", "category": "conv"}
+{"question_id": 399, "image": "29_08.jpg", "text": "Hmm, where did I put the Saran Wrap?", "category": "conv"}
